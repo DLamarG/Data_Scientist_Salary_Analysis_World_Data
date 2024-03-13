@@ -13,3 +13,6 @@ In this analysis, I delve into a comprehensive dataset containing information ab
 
 # 10 Most Popular Job Titles in Small/Medium/Large Companies
 ![Top_ten_job_titles_for_S_M_L_companies](https://github.com/DLamarG/Data_Scientist_Salary_Analysis_World_Data/assets/128423443/f4aba777-40b1-4502-ae9e-10e2753929d5)
+
+# Salary Distribution for Data Scientist
+![Salary_distribution_for_data_scientist](https://github.com/DLamarG/Data_Scientist_Salary_Analysis_World_Data/assets/128423443/dcb8423b-c0d7-401b-b427-1c7b2e935603)
